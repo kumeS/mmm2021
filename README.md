@@ -10,6 +10,9 @@
 （検索結果）
 https://kumes.github.io/mmm2021/02_Results.txt
 
+(補正)
+補正無し
+
 （R/wordcloud2による可視化結果: size=0.5, minSize=0, 出現数1000以下は削除）
 
 （1981-1990）
@@ -32,6 +35,9 @@ https://kumes.github.io/mmm2021/2010.html
 （検索結果）
 https://kumes.github.io/mmm2021/02_Results.txt
 
+(補正)
+補正無し
+
 （R/wordcloud2による可視化結果: size=0.5, minSize=0, 出現数100以下は削除）
 
 （1981-1990）
@@ -51,6 +57,9 @@ https://kumes.github.io/mmm2021/04_PubMedSeach_v02_2010-2020.html
 
 （検索語）
 「electron microscopy」
+
+(補正)
+最大出現数で補正
 
 （検索結果）
 https://kumes.github.io/mmm2021/02_Results.txt
