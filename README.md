@@ -47,7 +47,7 @@ https://kumes.github.io/mmm2021/04_PubMedSeach_v02_2000-2010.html
 https://kumes.github.io/mmm2021/04_PubMedSeach_v02_2010-2020.html
 
 
-## 結果(3): "chemistry"が共起する場合、除外して、"Microscopy, Electron, Scanning"あるいは"Microscopy, Electron, Transmission"が共起している場合のみ
+## 結果(3): "chemistry"が共起する場合には除外して、"Microscopy, Electron, Scanning"あるいは"Microscopy, Electron, Transmission"が共起している場合のみ
 
 （検索語）
 「electron microscopy」
